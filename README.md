@@ -1,16 +1,19 @@
-# cocktail_app
+# CockTail App
 
-A new Flutter project.
+Tugas Akhir Flutter Mata Kuliah MPM
 
-## Getting Started
+## List Anggota
 
-This project is a starting point for a Flutter application.
+Project ini dibuat sepenuh hati oleh:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kelompok 6
+1. Bernardinus Eden Bayu Samodro
+21060120140160
+2. Hafiz Alfian Aqsha
+21060120130104
+3. Arya Dimas Taffarel Wicaksana
+21060120130078
+4. Erland Abigail
+21060120140180
+5. Avior Hanif Romadhon
+21060120140120
